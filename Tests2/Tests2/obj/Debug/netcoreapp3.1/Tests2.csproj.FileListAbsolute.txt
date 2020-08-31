@@ -1,0 +1,13 @@
+D:\studiotest\Tests2\Tests2\bin\Debug\netcoreapp3.1\Tests2.exe
+D:\studiotest\Tests2\Tests2\bin\Debug\netcoreapp3.1\Tests2.deps.json
+D:\studiotest\Tests2\Tests2\bin\Debug\netcoreapp3.1\Tests2.runtimeconfig.json
+D:\studiotest\Tests2\Tests2\bin\Debug\netcoreapp3.1\Tests2.runtimeconfig.dev.json
+D:\studiotest\Tests2\Tests2\bin\Debug\netcoreapp3.1\Tests2.dll
+D:\studiotest\Tests2\Tests2\bin\Debug\netcoreapp3.1\Tests2.pdb
+D:\studiotest\Tests2\Tests2\obj\Debug\netcoreapp3.1\Tests2.csprojAssemblyReference.cache
+D:\studiotest\Tests2\Tests2\obj\Debug\netcoreapp3.1\Tests2.AssemblyInfoInputs.cache
+D:\studiotest\Tests2\Tests2\obj\Debug\netcoreapp3.1\Tests2.AssemblyInfo.cs
+D:\studiotest\Tests2\Tests2\obj\Debug\netcoreapp3.1\Tests2.csproj.CoreCompileInputs.cache
+D:\studiotest\Tests2\Tests2\obj\Debug\netcoreapp3.1\Tests2.dll
+D:\studiotest\Tests2\Tests2\obj\Debug\netcoreapp3.1\Tests2.pdb
+D:\studiotest\Tests2\Tests2\obj\Debug\netcoreapp3.1\Tests2.genruntimeconfig.cache
